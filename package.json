@@ -1,9 +1,16 @@
 {
+  "name": "react-typescript-closure-playground",
+  "source": "index.html",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
   "devDependencies": {
     "@types/react": "^18.0.27",
     "@types/react-dom": "^18.0.10",
     "parcel": "^2.8.3",
+    "process": "^0.11.10",
     "typescript": "^4.9.4"
+  },
+  "scripts": {
+    "start": "parcel"
   },
   "dependencies": {
     "react": "^18.2.0",
